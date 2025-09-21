@@ -11,7 +11,7 @@ Dentro questa repo ci sono i siti che raccontano leggende, miti e drammi informa
 - **Teolo™**: meteorologia secondo il prof lucido come un pannello solare
 - **ITISITO**: la giungla scolastica, con PC zombie e Wi-Fi da museo
 
-E altri ancora ;)
+E MOLTI altri ancora ;)
 
 ## 🎯 Perché esiste
 
