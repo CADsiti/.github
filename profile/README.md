@@ -1,7 +1,5 @@
 # 🖥️ CADsiti
 
-> ✨ CADsiti: la repo che non risolve problemi, ma li crea.
-
 Benvenuto/a nella collezione ufficiale dei **siti più inutili, sarcastici e completamente fuori di testa** che potrai mai trovare su GitHub.
 
 ## 📂 Cosa contiene
