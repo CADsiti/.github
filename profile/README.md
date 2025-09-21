@@ -6,9 +6,7 @@ Benvenuto/a nella collezione ufficiale dei **siti più inutili, sarcastici e com
 
 Dentro questa repo ci sono i siti che raccontano leggende, miti e drammi informatici in chiave ironica, tra cui:
 - **CADsito**: la divinità oscura di AutoCAD
-- **Tinkersito**: perché anche i cubetti meritano un culto
 - **™McSito™**: McDonald’s spiegato male e insultato bene
-- **Teolo™**: meteorologia secondo il prof lucido come un pannello solare
 - **ITISITO**: la giungla scolastica, con PC zombie e Wi-Fi da museo
 
 E MOLTI altri ancora ;)
