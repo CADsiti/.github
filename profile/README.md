@@ -5,9 +5,9 @@ Benvenuto/a nella collezione ufficiale dei **siti più inutili, sarcastici e com
 ## 📂 Cosa contiene
 
 Dentro questa repo ci sono i siti che raccontano leggende, miti e drammi informatici in chiave ironica, tra cui:
-- **CADsito**: la divinità oscura di AutoCAD
-- **™McSito™**: McDonald’s spiegato male e insultato bene
-- **ITISITO**: la giungla scolastica, con PC zombie e Wi-Fi da museo
+- [**CADsito**](https://cadsiti.github.io/cadsito): la divinità oscura di AutoCAD
+- [**™McSito™**](https://cadsiti.github.io/mcsito): McDonald's spiegato male e insultato bene
+- [**ITISITO**](https://cadsiti.github.io/itisito): la giungla scolastica, con PC zombie e Wi-Fi da museo
 
 E MOLTI altri ancora ;)
 
@@ -18,10 +18,10 @@ Perché avevamo troppo tempo libero da buttare.
 ## 🙏 Come contribuire
 
 Se vuoi dare una mano o proporre idee:
-- Apri una **Issue** nella repository **Idee** per segnalare un’idea, un nome divertente o un possibile nuovo sito.
+- Apri una **Issue** nella repository **Idee** per segnalare un'idea, un nome divertente o un possibile nuovo sito.
 - Invia una **Pull Request** se vuoi aggiungere contenuti direttamente (ad esempio nuove sezioni).
 
-Ogni contributo è ben accetto: l’obiettivo è divertirsi e costruire cose buffe insieme 😎
+Ogni contributo è ben accetto: l'obiettivo è divertirsi e costruire cose buffe insieme 😎
 
 ## 🧑 Contributori
 
@@ -31,4 +31,4 @@ Ogni contributo è ben accetto: l’obiettivo è divertirsi e costruire cose buf
 
 ## 📄 Disclaimer
 
-Tutti i progetti collegati a questa repo sono siti parodia, creati a scopo umoristico e senza alcun intento commerciale. Non c’è nessuna affiliazione con marchi, aziende o enti eventualmente citati. Non si vuole in alcun modo offendere, denigrare o danneggiare persone, istituzioni o prodotti reali. Qualsiasi somiglianza con nomi o marchi registrati è puramente casuale e usata solo in chiave comica. L’unico obiettivo di questo progetto è divertirsi, ridere e stimolare la creatività.
+Tutti i progetti collegati a questa repo sono siti parodia, creati a scopo umoristico e senza alcun intento commerciale. Non c'è nessuna affiliazione con marchi, aziende o enti eventualmente citati. Non si vuole in alcun modo offendere, denigrare o danneggiare persone, istituzioni o prodotti reali. Qualsiasi somiglianza con nomi o marchi registrati è puramente casuale e usata solo in chiave comica. L'unico obiettivo di questo progetto è divertirsi, ridere e stimolare la creatività.
