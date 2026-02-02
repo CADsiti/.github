@@ -25,7 +25,7 @@ Ogni contributo è ben accetto: l’obiettivo è divertirsi e costruire cose buf
 
 ## 🧑 Contributori
 
-- [@ChampyTech](https://github.com/ChampyTech)
+- [@ChampyTech](https://github.com/ChampyTech) (capo supremo)
 - [@SecchioNerd](https://github.com/SecchioNerd)
 - [@Nazgul2288](https://github.com/Nazgul2288)
 
